@@ -1,2 +1,5 @@
 # modx_manager_unlock
-Light php script to unlock modx manager panel
+Простой php скрипт для разблокироваки админ панели ModX.
+
+Загрузите в корень файл unlock.php и запустите его.
+Скрипт не принимает никаких параметров, просто очищает таблицу active_users.
